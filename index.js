@@ -1,3 +1,3 @@
 function testPullRequest() {
-    return 1;
+    return 2;
 }
